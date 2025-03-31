@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eleana1232
+- 👋 Hi, I’m @Eleana Mataragka 
 - 👀 I’m interested in Web Desing and Front-End Web Development
 - 🌱 I’m currently learning Python, CSS, HTML, WooCommerce
 - 💞️ I’m looking to collaborate on ...
